@@ -1,3 +1,3 @@
 # python-course
 
-## scripts do curso da Udemy
+## Scripts do Curso da Udemy
