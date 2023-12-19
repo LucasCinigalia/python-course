@@ -1,6 +1,6 @@
 """
 Faça uma lista de compras com listas 
-O usuario debe ter a possobilidade de 
+O usuario deve ter a possobilidade de 
 inserir, apagar e listar valores da sua lista
 Não permita que o programa quebre com 
 erros de indices inexistentes na lista.
